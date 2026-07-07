@@ -53,3 +53,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+.vs/DotNetCommunity-Level0.slnx/v18/DocumentLayout.backup.json
+.vs/DotNetCommunity-Level0.slnx/FileContentIndex/7413ff18-7cd4-425e-8c5b-3232ca912bd9.vsidx
+.vs/DotNetCommunity-Level0.slnx/FileContentIndex/a40a913f-c27f-4cb0-9043-19819eb3f3e3.vsidx
+.vs/DotNetCommunity-Level0.slnx/v18/DocumentLayout.json
